@@ -143,36 +143,14 @@ Além disso, o projeto conta com uma interface animada, fluida e visualmente agr
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- INTEGRANTES -->
+## Integrantes
 
-<!-- CONTRIBUTING -->
-## Contribuições
+rm 557298 - Julio Cesar Conceição Rodrigues
 
-Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será muito bem-vinda.
+rm 557129 - João Vitor Broggine Lopes
 
-Se você tiver alguma sugestão para melhorar este projeto, faça um fork do repositório e envie um pull request. Você também pode simplesmente abrir uma issue com a tag "enhancement" (melhoria).
-Não se esqueça de deixar uma estrela no projeto! Muito obrigado!
-
-1. Dê "Fork" no projeto
-2. Crie sua branch (`git checkout -b feature/AmazingFeature`)
-3. Commit suas alterações (`git commit -m 'Add some AmazingFeature'`)
-4. Sincronize com sua branch (`git push origin feature/AmazingFeature`)
-5. Abra um "Pull Request"
+rm 552602 - Matheus de Freitas Silva 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Principais contribuidores
-
-<a href="https://github.com/Challenge-Mottu-2025/Challenge-Mottu-Mobile/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Challenge-Mottu-2025/Challenge-Mottu-Mobile" alt="contrib.rocks image" />
-</a>
-
-<!-- CONTACT -->
-## Contato
-
-João Broggine - https://www.linkedin.com/in/joaobroggine/ | joaovitorbrogginelopes@gmail.com
-
-João Vitor Cândido - https://www.linkedin.com/in/jvictor0507/
-
-Thomas Rodrigues - https://www.linkedin.com/in/thomas-rodrigues-8b099a356/
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
